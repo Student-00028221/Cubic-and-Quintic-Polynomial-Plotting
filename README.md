@@ -8,3 +8,4 @@ This project includes:
 
 
 2. Quintic Polynomial Plotting
+<img src="img/quintic_plot.JPG">
