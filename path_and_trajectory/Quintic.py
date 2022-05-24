@@ -53,6 +53,6 @@ y = qt(x,a[0,0],a[1,0],a[2,0],a[3,0],a[4,0],a[5,0])
 
 plt.figure()
 plt.plot(x,y,'r', linestyle='-')
-plt.text(1,1.5,'q(t) = c0 + c1*t + c2*t**2 + c3*t**3 + c4*t**4 + c5*t**5')
+plt.text(1,1.5,'q(t) = c0 + c1*t + (c2*t)**2 + c3*t**3 + c4*t**4 + c5*t**5')
 plt.grid(True)
 plt.show()
