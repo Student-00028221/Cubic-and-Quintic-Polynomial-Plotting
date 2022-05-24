@@ -3,7 +3,7 @@
 
 This project includes:
 1. Cubic Polynomial Plotting;
-<img src="img/cubic_plot.jpg">
+<img src="img/cubic_plot.JPG">
 
 
 
